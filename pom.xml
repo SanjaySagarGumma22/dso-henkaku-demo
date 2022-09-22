@@ -16,9 +16,9 @@
         <version>2.2.0</version>
         <configuration>
               <apiKey>8cda8e69-4d01-47da-afbf-6356c68c046f</apiKey>
-              <workspaceName>TEST</workspaceName>
-              <projectName>TESTING</projectName>
-              <scenarioName>OCTO PERF TESTING</scenarioName>
+              <workspaceName>Demo</workspaceName>
+              <projectName>MyProject</projectName>
+              <scenarioName>Standard</scenarioName>
             </configuration>
       </plugin>
     </plugins>
